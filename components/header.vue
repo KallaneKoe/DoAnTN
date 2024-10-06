@@ -20,9 +20,7 @@
         </button>
       </div>
     </div>
-    <p class="text-center text-lg font-bold mx-auto my-0">
-      Error searching program
-    </p>
+    <p class="text-center text-lg font-bold mx-auto my-0">Searching program</p>
   </div>
 </template>
 
